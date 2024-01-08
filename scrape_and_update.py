@@ -47,7 +47,7 @@ for channel_div in channel_divs:
         print(f"Failed to fetch {channel_name} page")
 
 # Write the content to a new .m3u8 file
-with open('mrgamingstreams_channels.m3u8', 'w') as file:
+with open('updated_file.m3u8', 'w') as file:
     file.write("#EXTM3U\n")
     for category, channels in names_links.items():
         file.write(f"#EXTGRP:{category}\n")  # Write category as a group header
