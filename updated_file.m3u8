@@ -40,16 +40,20 @@ https://247.mrgamingstreams.com/mrgamingsecn.m3u8
 https://247b.mrgamingstreams.com/mrgamingskyarena.m3u8
 #EXTINF:-1 , Sky Cricket
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
+#EXTINF:-1 , Sky Sports F1
+https://247c.mrgamingstreams.com/mrgamingskyf1.m3u8
 #EXTINF:-1 , Sky Golf
 https://247.mrgamingstreams.com/mrgaminggolf.m3u8
 #EXTINF:-1 , Sky Main Event
 https://247b.mrgamingstreams.com/mrgamingmainevent.m3u8
 #EXTINF:-1 , Sky Mix
 https://247b.mrgamingstreams.com/mrgamingmix.m3u8
-#EXTINF:-1 , Supersport Cricket
-https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 #EXTINF:-1 , Supersport Action
 https://247b.mrgamingstreams.com/mrgamingaction.m3u8
+#EXTINF:-1 , Supersport Cricket
+https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
+#EXTINF:-1 , Supersport Motor
+https://247b.mrgamingstreams.com/mrgamingmotorsport.m3u8
 #EXTINF:-1 , Tennis Channel
 https://247b.mrgamingstreams.com/mrgamingtennis.m3u8
 #EXTINF:-1 , TNT
@@ -64,8 +68,6 @@ https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 #EXTINF:-1 , TSN 1
 https://247c.mrgamingstreams.com/mrgamingtsn1.m3u8
-#EXTINF:-1 , TSN 3
-https://247c.mrgamingstreams.com/mrgamingtsn3.m3u8
 #EXTINF:-1 , TYC Sports
 https://247b.mrgamingstreams.com/mrgamingtyc.m3u8
 #EXTINF:-1 , Willow TV
