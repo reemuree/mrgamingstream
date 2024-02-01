@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 
 # Fetch HTML content
-url = 'https://mrgamingstreams.com/24-7-tv/'
+url = 'https://mrgamingstreams.com'
 response = requests.get(url)
 html_content = response.content
 
